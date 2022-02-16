@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-001-continuum-electromechanics-spring-2009/5ee1a49dcc58e3c18f3badf1fe299ae2_chap05_sec_100.pdf
+file: /media/courses/res-6-001-continuum-electromechanics-spring-2009/5ee1a49dcc58e3c18f3badf1fe299ae2_chap05_sec_100.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook Contents
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: chap05_sec_100.pdf
 uid: 5ee1a49d-cc58-e3c1-8f3b-adf1fe299ae2

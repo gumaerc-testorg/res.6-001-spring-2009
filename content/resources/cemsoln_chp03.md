@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-001-continuum-electromechanics-spring-2009/356ab0c46f0355b740b66d6ec3e8e1bd_cemsoln_chp03.pdf
+file: /media/courses/res-6-001-continuum-electromechanics-spring-2009/356ab0c46f0355b740b66d6ec3e8e1bd_cemsoln_chp03.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Solutions Manual
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cemsoln_chp03.pdf
 uid: 356ab0c4-6f03-55b7-40b6-6d6ec3e8e1bd

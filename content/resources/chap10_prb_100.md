@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-001-continuum-electromechanics-spring-2009/3453e37f5bb2643ae5f82d3dac0e42bc_chap10_prb_100.pdf
+file: /media/courses/res-6-001-continuum-electromechanics-spring-2009/3453e37f5bb2643ae5f82d3dac0e42bc_chap10_prb_100.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook Contents
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: chap10_prb_100.pdf
 uid: 3453e37f-5bb2-643a-e5f8-2d3dac0e42bc

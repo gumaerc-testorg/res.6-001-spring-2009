@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Online Textbooks
+ocw_type: SupplementalResourceSection
 title: Textbook Contents
 uid: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
 ---

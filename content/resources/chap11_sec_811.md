@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-001-continuum-electromechanics-spring-2009/33c831b8333480968b0980351f8138c2_chap11_sec_811.pdf
+file: /media/courses/res-6-001-continuum-electromechanics-spring-2009/33c831b8333480968b0980351f8138c2_chap11_sec_811.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook Contents
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: chap11_sec_811.pdf
 uid: 33c831b8-3334-8096-8b09-80351f8138c2
