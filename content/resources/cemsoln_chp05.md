@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Solutions Manual
 parent_type: SupplementalResourceSection
+parent_uid: 1f60cd19-0fe4-00fe-b211-614315453a93
 resourcetype: Document
 title: cemsoln_chp05.pdf
 uid: 3bae16f6-e5fd-e084-cfb4-c386c4c2ee35

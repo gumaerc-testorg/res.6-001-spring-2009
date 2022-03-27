@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook Contents
 parent_type: SupplementalResourceSection
+parent_uid: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
 resourcetype: Document
 title: chap04_prb_811.pdf
 uid: 3ebf083c-fca8-22a7-3422-af4ade7a91a4

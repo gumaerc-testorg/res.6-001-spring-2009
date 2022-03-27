@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook Contents
 parent_type: SupplementalResourceSection
+parent_uid: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
 resourcetype: Document
 title: chap08_sec_811.pdf
 uid: c9d76a3c-97a6-1cc7-9c2d-53b41a8df101
