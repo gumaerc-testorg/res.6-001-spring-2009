@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-6-001-continuum-electromechanics-spring-2009/5ee1a49dcc58e3c18f3badf1fe299ae2_chap05_sec_100.pdf
+file: /courses/res-6-001-continuum-electromechanics-spring-2009/5ee1a49dcc58e3c18f3badf1fe299ae2_chap05_sec_100.pdf
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
