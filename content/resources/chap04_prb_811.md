@@ -5,6 +5,7 @@ file: /courses/res-6-001-continuum-electromechanics-spring-2009/3ebf083cfca822a7
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook Contents
 parent_type: SupplementalResourceSection

@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-6-001-continuum-electromechanics-spring-2009/e2c9cdcc1892ed9b2298cde44911ad90_cemsoln_chp10.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Solutions Manual
 parent_type: SupplementalResourceSection
