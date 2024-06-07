@@ -10,7 +10,7 @@ description: 'Continuum Electromechanics Textbook Components: Front-End Matter, 
   Chapter 9: Electromechanical Flows, Chapter 10: Electromechanics with Thermal and
   Molecular Diffusion and Chapter 11: Streaming Interactions.'
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 ocw_type: SupplementalResourceSection
 title: Textbook Contents
 uid: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
