@@ -2,9 +2,10 @@
 content_type: resource
 description: ''
 file: /courses/res-6-001-continuum-electromechanics-spring-2009/9397a9792a2d12b9c05555cfcea9316a_chap05_prb_811.pdf
+file_size: 442483
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook Contents
