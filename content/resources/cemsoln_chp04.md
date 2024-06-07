@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-001-continuum-electromechanics-spring-2009/5ffdafe9125ef4b80033e7fb65bbe1bb_cemsoln_chp04.pdf
+file_size: 1023425
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
