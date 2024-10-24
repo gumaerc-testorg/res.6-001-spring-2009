@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-6-001-continuum-electromechanics-spring-2009/31f09eb6567400cbd7eea68c82a337ed_cemsoln_chp02.pdf
+file: /ol-ocw-studio-app/courses/res-6-001-continuum-electromechanics-spring-2009/31f09eb6567400cbd7eea68c82a337ed_cemsoln_chp02.pdf
 file_size: 1170914
 file_type: application/pdf
 learning_resource_types: []
