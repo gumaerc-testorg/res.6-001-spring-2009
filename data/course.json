@@ -48,10 +48,11 @@
     "website": "res-6-001-continuum-electromechanics-spring-2009"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets with Solutions"
   ],
   "site_uid": "db926d8d-e95c-4176-b966-6e4e1d6f53ca",
   "site_short_id": "res.6-001-spring-2009",
+  "site_url_path": "courses/res-6-001-continuum-electromechanics-spring-2009",
   "title": "Course Metadata"
 }
