@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-6-001-continuum-electromechanics-spring-2009/18501542dea0ec11fcf1ccfba31ded0a_chap03_prb_100.pdf
+file: /ol-ocw-studio-app/courses/res-6-001-continuum-electromechanics-spring-2009/18501542dea0ec11fcf1ccfba31ded0a_chap03_prb_100.pdf
 file_size: 251159
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook Contents
