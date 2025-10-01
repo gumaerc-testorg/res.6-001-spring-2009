@@ -18,7 +18,7 @@ uid: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
 ---
 Although this book is currently out of print, copies are available from some sellers on Amazon:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262131650) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/026213165X/ref=nosim/mitopencourse-20) Melcher, James R. [*Continuum Electromechanics*](https://mitpress.mit.edu/9780262131650). Cambridge, MA: MIT Press, 1981. ISBN: 9780262131650.
+{{% resource_link "3b673188-c035-4c71-801d-3db48a363346" "![Buy at MIT Press](/images/mp_logo.gif)" %}} {{% resource_link "b76fd597-1988-40c7-a611-8b3302cf975e" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Melcher, James R. {{% resource_link "3b673188-c035-4c71-801d-3db48a363346" "*Continuum Electromechanics*" %}}. Cambridge, MA: MIT Press, 1981. ISBN: 9780262131650.
 
 ## *Continuum Electromechanics* Textbook Components
 
